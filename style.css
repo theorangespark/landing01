@@ -74,3 +74,10 @@ ul {
     column-gap: 40px;
     flex: 1;
 }
+
+.footer {
+    text-align: center;
+    color: #F9FAF8;
+    padding: 30px;
+    font-size: 24px;
+}
